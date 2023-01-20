@@ -226,7 +226,6 @@ let table = $('#providers').DataTable({
     });
 
 
-
 });
 </script>
 <script src="{{ asset('js/datatables/jquery-3.5.1.js') }}"></script>
